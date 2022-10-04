@@ -1,4 +1,4 @@
-# AngularScale
+# AngularScalyr
 Angular Directives by Scalyr
 ---
 
